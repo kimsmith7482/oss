@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hi
 bb
 mm
+=======
+Hi
+>>>>>>> origin/main
